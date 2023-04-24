@@ -1,4 +1,4 @@
-This project is MyBike adaptive landing page. The page briefly presents the brand and contains a block of contacts for communication. To move around the page, a scroll or pull-down menu is used.
+This project is MyBike adaptive landing page. The page briefly presents the brand and contains a block of contacts for communication. To move around the page, a scroll or menu is used.
 
 During the development of the landing, the following technologies were used:
 - HTML
