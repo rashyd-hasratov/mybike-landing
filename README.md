@@ -10,8 +10,9 @@ During the development of the landing, the following technologies were used:
 - SCSS
 - JS
 
+Links:
 - [DEMO LINK](https://rashyd-hasratov.github.io/mybike-landing/)
-- [MOCKUP] (https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1)
+- [MOCKUP](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1)
 
 To start the project on your device follow these instructions:
 1. Clone the project
